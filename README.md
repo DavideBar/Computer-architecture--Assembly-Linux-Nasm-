@@ -5,4 +5,4 @@ Work done in Linux ASSEMBLY 486. It calculates sine, cosine, tangent, cotangent,
 
 Work authors:
 
-Davide Barruncho and Yasmine Chede
+Davide Barruncho
